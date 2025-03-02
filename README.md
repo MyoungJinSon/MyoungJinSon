@@ -27,7 +27,7 @@
 ## Publications
 **Journal**  
 "COVID-19 Diagnosis from Crowdsourced Cough Sound Data", **Myoung-Jin Son**, Seok-Pil Lee, *Applied Sciences*, Vol.12, No.4, pp. 1795, **2022**. [DOI](https://doi.org/10.3390/app12041795) **[SCI]**  
-"A Study on Emotion Recognition using Speech Acoustic Features and Face Images", **Myoung-Jin Son**, Seok-Pil Lee, *KIEE*, Vol.69, No.7, pp. 1,081-1,086, **2020.07**. [DOI](https://doi.org/10.xxxx/KIEE.2020.69.7.1081) **[SCOPUS]**  
+"A Study on Emotion Recognition using Speech Acoustic Features and Face Images", **Myoung-Jin Son**, Seok-Pil Lee, *KIEE*, Vol.69, No.7, pp. 1,081-1,086, **2020.07**. [DOI](https://doi.org/10.5370/KIEE.2020.69.7.1081) **[SCOPUS]**  
   
 **Conference**  
 "A Diagnosis about COVID infected person using cough sound data", **Myoungjin Son**, Seokpil Lee, 2021 International Conference on Internet (ICONI).  
